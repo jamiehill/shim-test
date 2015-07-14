@@ -1,0 +1,21 @@
+{
+  "name": "shim-test",
+  "version": "1.0.0",
+  "devDependencies": {
+    "jspm": "^0.16.0-beta.3"
+  },
+  "jspm": {
+    "directories": {},
+    "dependencies": {
+      "backbone": "npm:backbone@^1.2.1",
+      "backbone.marionette": "npm:backbone.marionette@2.4.2",
+      "jquery": "github:components/jquery@^2.1.4",
+      "underscore": "npm:underscore@^1.8.3"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.6.4",
+      "babel-runtime": "npm:babel-runtime@^5.6.4",
+      "core-js": "npm:core-js@^0.9.17"
+    }
+  }
+}
