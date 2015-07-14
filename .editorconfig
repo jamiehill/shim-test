@@ -8,6 +8,8 @@ charset=utf-8
 
 [config.js]
 tab_width = 2
+[config.shim.js]
+tab_width = 2
 
 [package.json]
 tab_width = 2
